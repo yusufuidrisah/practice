@@ -1,0 +1,26 @@
+body{background-color: lightgray;
+padding-left: px;
+border-left: solid 2px white ;
+
+}
+div{
+    line-height: 50px;
+    
+    padding-left: 30px;
+}
+a{
+    color:rgb(14, 14, 14);
+    text-decoration: none;
+    padding-left: px;
+    margin-right: 20px;
+    
+}
+img{
+    width: 150px;
+    height: 90px;
+    
+}
+b{
+    padding:70px;
+    font-size:45px ;
+}
