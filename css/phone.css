@@ -164,6 +164,10 @@
                             margin-right:px;
                         }
 
+                        .footer{
+                            text-align:center ;
+                        }
+
                     }
                     @media only screen and (min-width: 992px) {
                         body{
@@ -296,6 +300,10 @@
                                         margin-bottom:10px;
                             
                                     }
+
+                                    .footer{
+                                        text-align:center ;
+                                    }
                                 }                      @media screen and (max-width:600px) {
                                     body{
                                         background-color: red;
@@ -311,6 +319,9 @@
                                         top:25px;
                                         left:67%;
                                         margin-right:px;
+                                    }
+                                    .footer{
+                                        text-align:center ;
                                     }
 
                                     
